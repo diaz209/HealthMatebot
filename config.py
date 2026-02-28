@@ -1,0 +1,2 @@
+BOT_TOKEN = "ТОКЕН"
+OPENAI_API_KEY = "API"
